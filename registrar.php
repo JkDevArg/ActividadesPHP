@@ -4,7 +4,7 @@ include("con_db.php");
 if (isset($_POST['actualizacion'])) {
     if (strlen($_POST['sitioweb']) >= 1 && strlen($_POST['cam']) >= 1 && strlen($_POST['com']) >= 1 && strlen($_POST['por']) >= 1) {
         $sitioweb = trim($_POST['sitioweb']);
-        $fecha = date("d/m/y H:i:s");
+        $fecha = date("d/m/y");
         $cam = trim($_POST['cam']);
         $com = trim($_POST['com']);
         $tipo = trim($_POST['tipo']);
@@ -17,7 +17,7 @@ if (isset($_POST['actualizacion'])) {
             ?>
             <br />
             <div class="alert alert-secondary ok" role="alert">
-              ¡Datos actualizados!
+              ¡Datos actualizados! <a href="index.php">Volver</a>
             </div>
             <div class="progress">
             <div class="progress-bar progress-bar-striped bg-success progress-bar-animated" role="progressbar" aria-valuenow="100" aria-valuemin="100" aria-valuemax="100" style="width: 100%"></div>
