@@ -11,8 +11,9 @@ Formulario que envía mis actividades a la base de datos para luego verlas en un
 - [ ] Agregar sistema de Login
 - [ ] Crear calendario
 
-## Captura
-![Captura](https://prnt.sc/vzs4cc) 
+## Capturas
+![Alt text](Screenshot_1.png?raw=true "Captura1")
+![Alt text](Screenshot_2.png?raw=true "Captura2") 
 
 ## Contacto🤓
 Email: jkdevarg@gmail.com
