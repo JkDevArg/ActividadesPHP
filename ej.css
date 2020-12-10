@@ -1,0 +1,30 @@
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.form {
+  width: 500px;
+}
+
+.abs-table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 30vh;
+}
+
+.a {
+        color: #FF0000;
+}
+
+.a:hover {
+        color: #00FF00;
+}
+
+
+.hora-actual {
+    float: right;
+}
