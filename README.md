@@ -13,7 +13,7 @@ Formulario que envía mis actividades a la base de datos para luego verlas en un
 
 ## Capturas
 ![Alt text](Screenshot_1.png?raw=true "Captura1")
-![Alt text](Screenshot_2.png?raw=true "Captura2") 
+![Alt text](Screenshot_3.png?raw=true "Captura3") 
 
 ## Contacto🤓
 Email: jkdevarg@gmail.com
