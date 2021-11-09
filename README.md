@@ -17,3 +17,5 @@ Formulario que envía mis actividades a la base de datos para luego verlas en un
 
 ## Contacto🤓
 Email: jkdevarg@gmail.com
+
+Freelancer
